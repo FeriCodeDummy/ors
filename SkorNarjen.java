@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 // import org.mariuszgromada.math.mxparser.Expression;
-public class example {
+public class SkorNarjen {
 
 	public static void main(String[] args) {
 		handler();
