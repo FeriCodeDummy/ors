@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ORSapp</string>
+    <string name="vnesi_ra_un">Vnesi račun</string>
+    <string name="todo">TODO</string>
+    <string name="input_number">Input number</string>
+    <string name="wrong_format">Number is not in correct format</string>
+    <string name="enter_binary_number">Enter binary number</string>
+    <string name="button_starts_convert_function">Button starts convert function</string>
+    <string name="result">Result</string>
+    <string name="mod">%</string>
+    <string name="pi">𝝅</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="lg">Lg</string>
+    <string name="ln">ln</string>
+    <string-array name="spinnerItems">
+        <item>BIN</item>
+        <item>OCT</item>
+        <item>DEC</item>
+        <item>HEX</item>
+    </string-array>
+
+    <string-array name="logicSpinnerItems">
+        <item>AND</item>
+        <item>OR</item>
+        <item>XOR</item>
+        <item>NAND</item>
+        <item>NOR</item>
+        <item>XNOR</item>
+        <item>NOT</item>
+    </string-array>
+</resources>
